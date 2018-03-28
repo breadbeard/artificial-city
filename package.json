@@ -1,0 +1,21 @@
+{
+  "name": "artificial-city",
+  "version": "1.0.0",
+  "description": "An Artificial City",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "install": "neon build"
+  },
+  "repository": "https://github.com/breadbeard/artificial-city",
+  "keywords": [],
+  "author": "Dwight VanTuyl",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "neon-cli": "^0.1.22",
+    "npm": "^5.8.0"
+  }
+}
